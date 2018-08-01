@@ -1,0 +1,16 @@
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\SD.Microservice1.deps.json
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\SD.Microservice1.runtimeconfig.json
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\SD.Microservice1.runtimeconfig.dev.json
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\SD.Microservice1.dll
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\SD.Microservice1.pdb
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\obj\Debug\netcoreapp2.0\SD.Microservice1.csprojAssemblyReference.cache
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\obj\Debug\netcoreapp2.0\SD.Microservice1.csproj.CoreCompileInputs.cache
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\obj\Debug\netcoreapp2.0\SD.Microservice1.AssemblyInfoInputs.cache
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\obj\Debug\netcoreapp2.0\SD.Microservice1.AssemblyInfo.cs
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\obj\Debug\netcoreapp2.0\SD.Microservice1.csproj.CopyComplete
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\obj\Debug\netcoreapp2.0\SD.Microservice1.dll
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice1\obj\Debug\netcoreapp2.0\SD.Microservice1.pdb

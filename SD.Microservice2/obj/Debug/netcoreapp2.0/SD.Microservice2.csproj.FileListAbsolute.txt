@@ -1,0 +1,15 @@
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\SD.Microservice2.deps.json
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\SD.Microservice2.runtimeconfig.json
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\SD.Microservice2.runtimeconfig.dev.json
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\SD.Microservice2.dll
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\SD.Microservice2.pdb
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.dll
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.dll
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.HealthChecks.pdb
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\bin\Debug\netcoreapp2.0\Microsoft.Extensions.HealthChecks.pdb
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\obj\Debug\netcoreapp2.0\SD.Microservice2.csproj.CoreCompileInputs.cache
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\obj\Debug\netcoreapp2.0\SD.Microservice2.AssemblyInfoInputs.cache
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\obj\Debug\netcoreapp2.0\SD.Microservice2.AssemblyInfo.cs
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\obj\Debug\netcoreapp2.0\SD.Microservice2.csproj.CopyComplete
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\obj\Debug\netcoreapp2.0\SD.Microservice2.dll
+c:\users\ayaan\source\repos\SD.HealthCheck.Microservices\SD.Microservice2\obj\Debug\netcoreapp2.0\SD.Microservice2.pdb
